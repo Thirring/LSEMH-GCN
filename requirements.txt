@@ -1,0 +1,5 @@
+python==3.7.0
+stanza==1.6.1
+supar==1.1.4
+torch==1.10
+transformers==4.3.3
